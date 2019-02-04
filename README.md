@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5097752/37513096-f73074bc-293e-11e8-81f8-2c9a0a10091b.png" width="200px" alt="">
+  <img src="https://raw.githubusercontent.com/lz42/pile/master/static/icons/pile.png" width="200px" alt="">
 </p>
 
 <p align="center">
-  <a href="https://travis-ci.org/mtobeiyf/pile">
-    <img src="https://travis-ci.org/mtobeiyf/pile.svg?branch=master" alt="">
+  <a href="https://travis-ci.org/lz42/pile">
+    <img src="https://travis-ci.org/lz42/pile.svg?branch=master" alt="">
   </a>
-  <a href="https://github.com/mtobeiyf/pile/releases">
-    <img src="https://img.shields.io/github/release/mtobeiyf/pile.svg" alt="">
+  <a href="https://github.com/lz42/pile/releases">
+    <img src="https://img.shields.io/github/release/lz42/pile.svg" alt="">
   </a>
   <a href="http://perso.crans.org/besson/LICENSE.html">
     <img src="https://img.shields.io/badge/License-GPLv3-green.svg" alt="">
